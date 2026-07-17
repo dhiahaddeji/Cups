@@ -49,7 +49,7 @@ export const MENU = [
           { name: "Fraise", price: "6" },
           { name: "Orange", price: "5" },
           { name: "Ananas", price: "6" },
-          { name: "Lait de Poule + Dattes", price: "8" },
+          { name: "Banane + Dattes", price: "8" },
           { name: "Cocktail", price: "11", star: true },
         ],
       },
@@ -97,7 +97,8 @@ export const MENU = [
       {
         name: "Thé",
         items: [
-          { name: "Amande", price: "7" },
+          { name: "Menthe", price: "2,5" },
+          { name: "Amande", price: "5" },
           { name: "Bondok", price: "6" },
           { name: "Mixte", price: "7,5" },
         ],
@@ -143,9 +144,9 @@ export const MENU = [
         name: "Desserts",
         items: [
           { name: "Tarte", price: "4" },
-          { name: "Gâteau", price: "6" },
+          { name: "Gâteau", price: "4" },
           { name: "Cheesecake", price: "7" },
-          { name: "Cake", price: "3" },
+          { name: "Cake", price: "2" },
           { name: "Bousa", price: "6" },
           { name: "Assida", price: "6" },
         ],
